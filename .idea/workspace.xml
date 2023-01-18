@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Lisa_Simpson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Simpsons_FamilyPicture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Swimsuit_Homer.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bart-simpson-png-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
+    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files main.css">
+      <change beforePath="$PROJECT_DIR$/lesson1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1674039060967</updated>
       <workItem from="1674039062201" duration="3987000" />
-      <workItem from="1674046394531" duration="8402000" />
+      <workItem from="1674046394531" duration="8925000" />
     </task>
+    <task id="LOCAL-00001" summary="all files">
+      <created>1674056468760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674056468760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files" />
+    <MESSAGE value="all files main.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files main.css" />
   </component>
 </project>

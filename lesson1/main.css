@@ -3,14 +3,16 @@ h1{
     background: darkslategray;
 }
 h2 {
-    background:darkseagreen;
+    background-color:darkseagreen;
     color: beige;
 }
 p{
-    color: dark; background:darkkhaki;
+    color:red;
+    background-color: black;
 }
 ul{
-    background: khaki; color: darkslategray;
+    background-color: khaki;
+    color: darkslategray;
 }
 a{
     color: darkslategray;
