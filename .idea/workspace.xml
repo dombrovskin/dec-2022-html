@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files flex.css">
-      <change afterPath="$PROJECT_DIR$/lesson2.1/two flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2.1/twoindex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files  two flex.css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +68,7 @@
       <workItem from="1674039062201" duration="3987000" />
       <workItem from="1674046394531" duration="10166000" />
       <workItem from="1674058234390" duration="6000" />
-      <workItem from="1674305985793" duration="25029000" />
+      <workItem from="1674305985793" duration="25414000" />
     </task>
     <task id="LOCAL-00001" summary="all files">
       <created>1674056468760</created>
@@ -96,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674396278692</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="all files  two flex.css">
+      <created>1674416616807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674416616807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +119,7 @@
     <MESSAGE value="all files" />
     <MESSAGE value="all files main.css" />
     <MESSAGE value="all files flex.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files flex.css" />
+    <MESSAGE value="all files  two flex.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files  two flex.css" />
   </component>
 </project>
