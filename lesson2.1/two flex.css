@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+.container{
+    height: 800px;
+    width:100%;
+    background: silver;
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
+    align-items: center;
+}
+.item{
+    height: 250px;
+    width: 200px;
+    border: solid #757373;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2% 5% 1% 5%;
+
+}
+.item2{
+    margin-bottom: 2%;
+}
+.Knopka{
+    width: 90%;
+    border: 3px solid #7c7a7a;
+    padding: 5% ;
+text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+h2{
+    color: #4b4646;
+
+}
+p{
+    color: #7c7a7a;
+    margin: 5px;
+}

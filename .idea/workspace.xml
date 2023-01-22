@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files main.css">
-      <change afterPath="$PROJECT_DIR$/lesson2/flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files flex.css">
+      <change afterPath="$PROJECT_DIR$/lesson2.1/two flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2.1/twoindex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
       <recent name="C:\Users\manag\IdeaProjects\dec-2022-html\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manag\IdeaProjects\dec-2022-html\lesson2" />
       <recent name="C:\Users\manag\IdeaProjects\dec-2022-html\images" />
     </key>
   </component>
@@ -71,7 +73,7 @@
       <workItem from="1674039062201" duration="3987000" />
       <workItem from="1674046394531" duration="10166000" />
       <workItem from="1674058234390" duration="6000" />
-      <workItem from="1674305985793" duration="17869000" />
+      <workItem from="1674305985793" duration="25029000" />
     </task>
     <task id="LOCAL-00001" summary="all files">
       <created>1674056468760</created>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674056968009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all files flex.css">
+      <created>1674396278692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674396278692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all files" />
     <MESSAGE value="all files main.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files main.css" />
+    <MESSAGE value="all files flex.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files flex.css" />
   </component>
 </project>
