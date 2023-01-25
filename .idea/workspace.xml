@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="all files  two flex.css" />
+    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/part2/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/part2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ebe56bae-103c-4a4c-9040-970c26003e9c" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +77,8 @@
       <workItem from="1674039062201" duration="3987000" />
       <workItem from="1674046394531" duration="10166000" />
       <workItem from="1674058234390" duration="6000" />
-      <workItem from="1674305985793" duration="25770000" />
+      <workItem from="1674305985793" duration="26917000" />
+      <workItem from="1674654484913" duration="9617000" />
     </task>
     <task id="LOCAL-00001" summary="all files">
       <created>1674056468760</created>
@@ -105,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674416858165</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1674417204487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674417204487</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +144,7 @@
     <MESSAGE value="all files main.css" />
     <MESSAGE value="all files flex.css" />
     <MESSAGE value="all files  two flex.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files  two flex.css" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

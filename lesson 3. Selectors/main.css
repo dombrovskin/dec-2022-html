@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.header{
+    height: 80px;
+    background: silver;
+    padding: 15px 60px 0 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    height: 300px;
+    background: #6d05b2;
+}
+
+.footer{
+    height: 280px;
+    background: silver;
+    position: relative;
+}
+.parent{
+    position: absolute;
+    top: -75px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.dgRradious{
+    border-radius: 20px;
+}
+.w70px{
+    width: 200px;
+}
+.h50px{
+    height: 150px;
+}
+.bgcolor{
+    background: #5f56f6;
+}
+.icon{
+  display: flex;
+    align-items:center;
+    justify-content:flex-end;
+
+}
+.fa-solid{
+    padding: 10px;
+}
+.logo{
+    height: 50px;
+    width: 150px;
+    background: #6d05b2;
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-start;
+
+}
