@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/part2/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3. Selectors/part2/index2.html" afterDir="false" />
+    <list default="true" id="c1b20167-b72a-4c4d-8aa5-a42ac5bd4594" name="Changes" comment="selectors">
+      <change afterPath="$PROJECT_DIR$/lesson4media/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4media/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4media/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4media/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,8 @@
       <workItem from="1674046394531" duration="10166000" />
       <workItem from="1674058234390" duration="6000" />
       <workItem from="1674305985793" duration="26917000" />
-      <workItem from="1674654484913" duration="9617000" />
+      <workItem from="1674654484913" duration="11296000" />
+      <workItem from="1674988767614" duration="12680000" />
     </task>
     <task id="LOCAL-00001" summary="all files">
       <created>1674056468760</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674417204487</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="selectors">
+      <created>1674666518911</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674666518911</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="all files flex.css" />
     <MESSAGE value="all files  two flex.css" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="selectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="selectors" />
   </component>
 </project>

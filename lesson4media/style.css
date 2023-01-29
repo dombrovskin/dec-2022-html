@@ -1,0 +1,42 @@
+.container{
+    width:97%;
+    height: 700px;
+    background: silver;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black ;
+    padding: 1%;
+}
+.A{
+    width: 100%;
+    height: 80px;
+background: #6d05b2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 2%;
+}
+.B{
+    width: 60%;
+    height: 300px;
+    background:#03a9f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
+.C{
+    width: 38%;
+    height: 300px;
+    background:#03a9f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.blo{
+    display: flex;
+    flex-direction: row;
+
+
+}
