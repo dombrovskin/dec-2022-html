@@ -1,0 +1,103 @@
+.container{
+    width:97%;
+    background: #fbfbfb;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #787878 ;
+    padding: 1%;
+    border-radius: 2%;
+}
+.A{
+    width: 100%;
+    height: 80px;
+    background: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2%;
+    border: 1px solid silver;
+    border-radius: 4%;
+}
+.B{
+    width: 100%;
+    height: 300px;
+    background: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    border: 1px solid silver;
+    border-radius: 4%;
+
+}
+.F{
+    width: 38%;
+    background:#d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid silver;
+    border-radius: 4%;
+
+}
+.blo{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.all{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 2%;
+}
+.CDE{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #fbfbfb;
+    padding: 2% 0 0 0 ;
+
+
+
+}
+.C, .D, .E{
+    width:30%;
+    height:115px;
+    background-color:#d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid silver;
+    border-radius: 4%;
+
+}
+@media screen and (min-width: 0) and (max-width: 576px) {
+    .blo {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .B, .F {
+        width: 100%;
+
+
+    }
+    .B{
+        margin-bottom: 2%;
+    }
+    .all{
+        width: 100%;
+
+    }
+.CDE{
+    margin-bottom: 2%;
+}
+.F{
+    height: 80px;
+}
+}
